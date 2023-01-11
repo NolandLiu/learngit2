@@ -6,3 +6,4 @@ Git tracks changes of files.
 This is edited on DEV branch.
 
 This is second edited on DEV branch after already merged. 
+This is added by main.
